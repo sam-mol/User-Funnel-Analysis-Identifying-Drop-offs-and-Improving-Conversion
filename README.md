@@ -39,20 +39,20 @@ Compared funnel performance across user segments (device type).
 
 ## Insights
 
-The largest drop-off occurs at: Activation step.
-Conversion significantly decreases between signup and activation, indicating friction in the user experience.
+The largest drop-off occurs at: Purchasing step.
+Conversion significantly decreases between activation and purchasing, indicating friction in the user experience.
 Mobile segment outperforms desktop segment users, suggesting opportunities for targeted optimization.
 
 
 ## Recommendations
 
-Simplify onboarding or sign-up flow.
+Simplify signup step and activation steps. Improve user guidance:
+Add prompts, tooltips, or onboarding flows.
 
-Improve user guidance:
-Add prompts, tooltips, or onboarding flows
+Reduce friction in purchasing step by remove all unnecessary steps to make the purchase as quick as possible. Improve product descriptions and address potential customer questions to reduce purchase hesitation. Use targetted adds and purchase discounts.
 
-Target high-performing segments:
-Focus acquisition efforts on segments with higher conversion rates
+Target high-performing segments (mobile):
+Focus acquisition efforts on segments with higher conversion rates.
 
 
 ## Next Steps
